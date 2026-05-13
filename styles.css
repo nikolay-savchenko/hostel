@@ -23,7 +23,7 @@ header {
 }
 
 .header-logo {
-  max-width: 800px;
+  max-width: 500px;
   height: auto;
   margin-bottom: 20px;
   display: block;
@@ -40,7 +40,7 @@ header h1 {
 }
 
 header p {
-  font-size: 8px;
+  font-size: 12px;
   opacity: 0.9;
   font-weight: 300;
 }

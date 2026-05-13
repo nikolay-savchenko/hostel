@@ -270,12 +270,12 @@ footer p {
   }
 
   .header-logo {
-    max-width: 150px;
+    max-width: 300px;
   }
 
   .section-title {
-    font-size: 24px;
-    margin-bottom: 30px;
+    font-size: 12px;
+    margin-bottom: 20px;
   }
 
   nav ul {

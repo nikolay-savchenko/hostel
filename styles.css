@@ -266,11 +266,11 @@ footer p {
   }
 
   header p {
-    font-size: 16px;
+    font-size: 10px;
   }
 
   .header-logo {
-    max-width: 300px;
+    max-width: 400px;
   }
 
   .section-title {
@@ -316,9 +316,12 @@ footer p {
   header h1 {
     font-size: 24px;
   }
+  header p {
+    font-size: 12px;
+  }
 
   .header-logo {
-    max-width: 120px;
+    max-width: 300px;
   }
 
   .section-title {
